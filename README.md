@@ -27,6 +27,11 @@ START
    Calculate Balance= (monthly repayment* 12)* (loanperiod-n th year)  
 	 Output years,principal,interest,balance  
    Loop years,principal,interest,balance depend on the loan period entered by the user  
-END  
+END 
+
+## Flow chart to print temparature
+
+![Flowchart](https://github.com/zhamri/123456-STIA1113-A191-A1A2/blob/master/flowchart-example.png)
+
 # Screenshot of the Output
 https://raw.githubusercontent.com/ikmah99/264491-STIA1113-A191-A1A2/master/output.png
