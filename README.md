@@ -30,8 +30,7 @@ START
 END 
 
 ## Flow chart to print temparature
-
-![Flowchart](https://github.com/zhamri/123456-STIA1113-A191-A1A2/blob/master/flowchart-example.png)
+https://raw.githubusercontent.com/ikmah99/264491-STIA1113-A191-A1A2/master/flowchart.png
 
 # Screenshot of the Output
 https://raw.githubusercontent.com/ikmah99/264491-STIA1113-A191-A1A2/master/output.png
