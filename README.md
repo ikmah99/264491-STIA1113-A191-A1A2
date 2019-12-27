@@ -29,3 +29,4 @@ START
    Loop years,principal,interest,balance depend on the loan period entered by the user  
 END  
 # Screenshot of the Output
+https://github.com/ikmah99/264491-STIA1113-A191-A1A2/blob/master/output.png
